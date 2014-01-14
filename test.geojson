@@ -2,7 +2,7 @@
   "features": [
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [102.0, 0.5]},
-      "properties": {"marker-size": "small","marker-symbol":"school"}
+      "properties": {"marker-size": "medium","marker-symbol":"school"}
       },
     { "type": "Feature",
       "geometry": {
